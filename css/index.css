@@ -1,0 +1,48 @@
+body{
+    display: flex;
+    justify-content: space-around;
+    background-color: #feecd8;
+}
+
+.index{
+    background-color: #c2cedc;
+    width: 800px;
+}
+
+.head {
+    height: 60px;
+}
+
+.head a {
+    width: 100px;
+    
+    margin: 8px;
+    line-height: 50px;
+    text-align: center;
+    background-color: #8a95a9;
+    border-radius: 25px;
+    display: inline-block;
+}
+
+.body {
+    height: 457px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
+
+.index .body img {
+    width: 120px;
+}
+
+.foot {
+    display: flex;
+    justify-content: center;
+}
+
+.foot img {
+    width: 120px;
+    height: 80px;
+}
