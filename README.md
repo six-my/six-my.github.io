@@ -33,7 +33,7 @@
             <strong><a href="#" target="_blank">文件收集</a></strong>
         </div>
         <div>
-            <strong><a href="#" target="_blank">网址收集</a></strong>
+            <strong><a href="#" target="_blank">网站收集</a></strong>
         </div>
         <div>
             <strong><a href=".\音乐收集.html" target="_blank">音乐收集</a></strong>
