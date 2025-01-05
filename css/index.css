@@ -1,41 +1,20 @@
 body {
     background-color: #e3fdfd;
+    background-image: url(resources\image\logo.jpg);
+    background-size: 100%;
 }
 
 
 .index {
-    width: 90vw;
+    width: 1080px;
+    height: 600px;
     margin-left: auto;
     margin-right: auto;
     background-color: #cbf1f5;
 }
 
-.head {
-    background-color: #a6e3e9;
-    height: 8vh;
-}
-
-.head a {
-    height: 6vh;
-    width: 6.4vw;
-    display: inline-block;
-
-    line-height: 6.4vh;
-    text-align: center;
-    margin-top: 0.8vh;
-    margin-left: 0.8vw;
-    border-radius: 3vh;
-    background-color: #71c9ce;
-}
-
-.head .head_three {
-    float: right;
-    margin-right: 0.8vw;
-}
-
 .body {
-    height: 70vh;
-    background-color: #cbf1f5;
+    height: 450px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -43,62 +22,66 @@ body {
 }
 
 .body img {
-    width: 10vw;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
-    margin-bottom: 3vh;
-}
-
-.body div {
-    color: #ffd700;
-    font-size: 4vh;
 }
 
 
 .foot {
-    height: 22vh;
-    background-color: #cbf1f5;
+    height: 150px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
+
 .foot img {
-    height: 20vh;
+    width: 100px;
+    height: 100px;
 }
+
 
 
 .navigation {
-    background-color: #e3fdfd;
+    width: 1080px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .navigation_body {
-    height: 80vh;
-    width: 90vw;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: #a6e3e9;
     display: flex;
+    justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
+    flex: 1;
 }
 
 .navigation_body a {
-    width: 20vw;
-    height: 40%;
-    margin: auto;
-    border-radius: 5vh;
-    background-color: #71c9ce;
+    width: 220px;
+    height: 160px;
+    padding: 5px;
+    margin: 20px;
+    text-align: center;
+    background-color: #93c5fd;
+    border-radius: 10px;
 }
 
-
-.navigation_foot {
-    height: 20vh;
-    display: flex;
+.navigation_body img {
+    width: 60px;
+    height: 60px;
 }
-
 
 .navigation_foot div {
-    width: 100%;
-    text-align: center;
-    align-self: flex-end;
+    height: 20px;
+    line-height: 20px;
 }
+
+
+
