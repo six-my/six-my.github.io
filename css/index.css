@@ -1,6 +1,6 @@
 body {
     background-color: #e3fdfd;
-    background-image: url(resources\image\logo.jpg);
+    background-image: url(../resources/image/index/Arendelle.jpeg);
     background-size: 100%;
 }
 
@@ -10,7 +10,6 @@ body {
     height: 600px;
     margin-left: auto;
     margin-right: auto;
-    background-color: #cbf1f5;
 }
 
 .body {
@@ -49,10 +48,6 @@ body {
     height: 600px;
     margin-left: auto;
     margin-right: auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
 }
 
 .navigation_body {
@@ -60,17 +55,20 @@ body {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    flex: 1;
 }
 
 .navigation_body a {
+    border: 0.5px solid#cccccc;
     width: 220px;
     height: 160px;
     padding: 5px;
     margin: 20px;
     text-align: center;
-    background-color: #93c5fd;
     border-radius: 10px;
+    box-shadow: 1px 1px 1px 0.5px #cccccc;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .navigation_body img {
@@ -83,5 +81,17 @@ body {
     line-height: 20px;
 }
 
+.home_list {
+    margin-left: 40px;
+}
+
+.home_list a {
+    display: block;
+    height: 30px;
+    line-height: 30px;
+}
 
 
+.navigation_foot {
+    text-align: center;
+}

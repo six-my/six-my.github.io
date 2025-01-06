@@ -28,36 +28,4 @@
     <!--<p>six.my</p>-->
     <!-- <p>本站于年月日正式完成第一版</p> -->
     <!--窗口结束-->
-    <!--<div>
-        <div>
-            <strong><a href="#" target="_blank">文件收集</a></strong>
-        </div>
-        <div>
-            <strong><a href="#" target="_blank">网站收集</a></strong>
-        </div>
-        <div>
-            <strong><a href=".\音乐收集.html" target="_blank">音乐收集</a></strong>
-        </div>
-        <div>
-            <strong><a href=".\电影收集.html" target="_blank">电影收集</a></strong>
-        </div>
-        <div>
-            <strong><a href="#" target="_blank">壁纸收集</a></strong>
-        </div>
-        <div>
-            <strong><a href=".\手机刷机.html" target="_blank">手机刷机</a></strong>
-        </div>
-        <div>
-            <strong><a href="#" target="_blank">书籍</a></strong>
-        </div>
-    </div>
 
-
-
-
-    <hr>
-    <p>&copy;2024
-        <a href=".\联系我.html" target="_blank">联系我</a>
-        <!-- 该链接手机电脑都可用 -->
-        <!--开源地址
-    </p> -->
