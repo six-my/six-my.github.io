@@ -9,14 +9,18 @@ a {
 }
 
 h2 {
-
+    text-align: center;
 }
 
 
 h4 {
-
+    text-indent: 2em;
+    margin-top: 5px;
+    margin-between: 5px;
 }
 
 p {
-
+    text-indent: 2em;
+    font-size:14px;
+    margin:5px 0px 5px 40px;
 }
