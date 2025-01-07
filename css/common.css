@@ -36,6 +36,7 @@ body {
 
 .head {
     height: 80px;
+    margin-bottom: 8px;
     display: flex;
     justify-content: space-between;
     border-bottom: 0.5px solid #cccccc;
@@ -54,6 +55,7 @@ body {
 .warn {
     padding: 5px;
     border: 0.5px solid #cccccc;
+    box-shadow: 1px 1px 1px 0.5px #cccccc;
     color: #ff3333;
 }
 
@@ -65,6 +67,7 @@ body {
     text-align: center;
     font-size: 40px;
     border: 0.5px solid #cccccc;
+    box-shadow: 1px 1px 1px 0.5px #cccccc;
     margin-top: 5px;
 }
 
@@ -74,5 +77,6 @@ body {
     padding: 4px;
     font-size: 40px;
     border: 0.5px solid #cccccc;
+    box-shadow: 1px 1px 1px 0.5px #cccccc;
     margin-top: 5px;
 }
