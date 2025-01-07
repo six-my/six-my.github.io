@@ -1,0 +1,19 @@
+* {
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #e3fdfd;
+}
+
+.body {
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3 {
+    font-size: 30px;
+}

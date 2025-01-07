@@ -1,12 +1,31 @@
+* {
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+}
+
 h3 {
-    font-size: 50px;
+    font-size: 45px;
     margin: 0px;
 }
 
+h4 {
+    font-size: 30px;
+    margin: 0px;
+}
+
+h5 {
+    font-size: 16px;
+}
+
+form {
+    padding-top: 30px;
+    padding-left: 30%;
+}
 
 body {
-    background-image: url(../resources/image/Arendelle.jpeg);
     background-size: 100%;
+    background-color: #e3fdfd;
 }
 
 .home {
@@ -16,17 +35,44 @@ body {
 }
 
 .head {
-    height: 90px;
+    height: 80px;
     display: flex;
     justify-content: space-between;
-    border: 0.5px solid #cccccc;
+    border-bottom: 0.5px solid #cccccc;
 }
 
 .head a {
-    height: 80px;
+    height: 75px;
 }
 
 .head img {
-    width: 80px;
-    height: 80px;
+    width: 75px;
+    height: 75px;
+}
+
+
+.warn {
+    padding: 5px;
+    border: 0.5px solid #cccccc;
+    color: #ff3333;
+}
+
+
+.special_section {
+    height: 60px;
+    padding: 4px;
+    line-height: 60px;
+    text-align: center;
+    font-size: 40px;
+    border: 0.5px solid #cccccc;
+    margin-top: 5px;
+}
+
+.single-post {
+    display: block;
+    height: 60px;
+    padding: 4px;
+    font-size: 40px;
+    border: 0.5px solid #cccccc;
+    margin-top: 5px;
 }
